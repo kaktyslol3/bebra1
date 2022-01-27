@@ -27,8 +27,10 @@ div{
     width: 1200px;
     margin: 0 auto;
     overflow: hidden;
+    margin-right: 10px;
 }
 main{
     width: 50%;
     float: left;
+    text-align: center;
 }
