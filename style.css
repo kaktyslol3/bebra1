@@ -2,14 +2,22 @@ body{
     padding: 0;
     margin: 0;
     font-family: Tahoma,serif;
+    background-image: url(images/Слой_1\ 4.png);
+    background-repeat: space;
+    background-color: #b5bfca;
 }
-header,footer{
-    background: black;
-    padding: 50px 0;
+header{
+    background: #bad7aa;
+    padding: 27px 0;
+    
+    height: 0px;
+    
 }
 h1{
     text-align: center;
     color: white;
+    margin-top: -23px;
+   
 }
 h2{
     text-align: center;
@@ -27,7 +35,13 @@ div{
     width: 1200px;
     margin: 0 auto;
     overflow: hidden;
+
     margin-right: 10px;
+
+    margin-right: -113px;
+    
+    
+
 }
 main{
     width: 50%;
