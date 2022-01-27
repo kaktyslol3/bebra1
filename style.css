@@ -1,0 +1,34 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Tahoma,serif;
+}
+header,footer{
+    background: black;
+    padding: 50px 0;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-align: center;
+    color: white;
+}
+h4{
+    text-align: center;
+    color: white;
+}
+div{
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+main{
+    width: 50%;
+    float: left;
+}
